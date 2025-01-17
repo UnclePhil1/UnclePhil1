@@ -1,69 +1,20 @@
-### Hello there 👋
-I'm Philip Nssien
-Full Stack Web Developer
+# Hey there! 👋
 
-Phone: +234-90-711-51-435  
-Email: philipnssien@gmail.com  
-Portfolio: https://www.linkedin.com/in/philipnssien 
-LinkedIn: https://linkedin.com/in/  || Github: https://github.com/UncleP04
-Contact:Akwa Ibom State, Nigeria.
+I'm a **Frontend Developer** and **DevRel** at Superteam, where I focus on building amazing developer communities and driving engagement in the Web3 ecosystem. Currently, I'm working on **XDEGEN**, a decentralized demo trading app that teaches users how to trade in a fun and educational environment.
 
-About-Me.💬
-Experienced Full Stack Developer with a strong track record of creating high-quality Web applications. 
-Skilled in user-friendly interface development, logics, and proficient in both front-end and back-end technologies.
-Effective problem solver and collaborator, delivering successful projects within deadlines.
-Committed to continuous skill enhancement and delivering innovative software solutions.
+## 🔥 Currently Working On:
+- **XDEGEN**: A demo trading platform designed to teach users how to trade DeFi assets, with a focus on making the experience fun and informative. The app allows users to trade using demo assets while learning the ropes of decentralized trading.
 
-My-Works⚡
-WecruitMe
-Worked with WecruitMe with an extensive network of connections and a deep understanding of the African tech landscape. https://wecruitme.com/
+## 🚀 About Me:
+- I'm passionate about creating user-friendly interfaces and building decentralized applications (dApps).
+- Developer Advocate at **Superteam**: I engage with developers, provide resources, and help build the next generation of Web3 technology.
+- I specialize in frontend technologies (React, JavaScript, TypeScript) and enjoy experimenting with new tools and frameworks to improve the developer experience.
 
-Fincove
-Fincove is a revolutionary financial app designed to empower you with seamless lending and borrowing capabilities, bridging both traditional currency and digital currency worlds. With its intuitive financial intelligence feature https://fincove.vercel.app
+## 📬 Let's Connect:
+- [Twitter](https://x.com/UnclePhill_01)
+- [LinkedIn](https://linkedin.com/in/philipnssien)
+- [Website/Portfolio](https://philipsite.vercel.app)
 
-HypeFarm.io
-HypeFarm is a comprehensive growth service for web3 projects on Discord, Twitter, and Telegram. We help our clients increase their social presence, build a larger audience, and engage with their users in order to drive revenue and create a successful business. . https://hypefarm.io/
+---
 
-La-Boutique
-This is an E-commerce website showing different products that can be purchased.
-After viewing the product and adding to cart, you can then proceed to checkout..https://la-boutique.vercel.app/
-
-ChariHeal
-Chariheal is a website created for charity purposes.
-The website enables users to interact with NGOs responsible or associated with taking care of the needy.
-https://chariheal.vercel.app//
-
-Kuda bank Website
-A similar design of the official kids bank platform or website.
-https://kudabk.vercel.app/
-
-Official URepublic
-OfficialuRepublic is a phenomenal crypto marketing agency with a flare for building a thriving and loyal crypto community.
-https://officialrepublic.onrender.com//
-
-My-Stack🔭
-HTML5  
-CSS3 
-JAVASCRIPT(ES6) 
-TYPESCRIPT
-REACT.JS 
-NEXT.JS 
-NODE(EXPRESS)
-BOOTSTRAP, TAILWIND-CSS, STYLED-COMPONENTS, PARTICLE-JS, AOS
-ATOM, VS-CODE, PROJECT IDX, GIT, GITHUB, TRELLO.
-
-I AM ALWAYS OPEN AND AVALIABLE TO BE OF SERVICES✨
-<!--
-**UnclePhil1/UnclePhil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you want to collaborate or chat about blockchain, frontend dev, or anything in between! Let's build the future of the web together! 💻🌍
