@@ -8,7 +8,7 @@ I'm a **Frontend Developer** and **DevRel** at Superteam, where I focus on build
 ## 🚀 About Me:
 - I'm passionate about creating user-friendly interfaces and building decentralized applications (dApps).
 - Developer Advocate at **Superteam**: I engage with developers, provide resources, and help build the next generation of Web3 technology.
-- I specialize in frontend technologies (React, JavaScript, TypeScript) and enjoy experimenting with new tools and frameworks to improve the developer experience.
+- I specialize in frontend technologies (React, JavaScript, TypeScript, Solana development, Three.js, Next) and enjoy experimenting with new tools and frameworks like Shadcn, tailwindcss, to improve the developer experience.
 
 ## 📬 Let's Connect:
 - [Twitter](https://x.com/UnclePhill_01)
