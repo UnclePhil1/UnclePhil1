@@ -18,3 +18,15 @@ I'm a **Frontend Developer** and **DevRel** at Superteam, where I focus on build
 ---
 
 Feel free to reach out if you want to collaborate or chat about blockchain, frontend dev, or anything in between! Let's build the future of the web together! 💻🌍
+
+## 🚀 Key Accomplishments:
+1. A month after joining Superteam, I become the DevRel, and member of superteamNG - [POST](https://x.com/UnclePhil_01/status/1849583083986522280)
+2. Received a grant from superteamNG to run a 3days onboarding program across different Startups, and school in my region - [POST](https://x.com/UnclePhil_01/status/1909924475048513656)
+   [Africinnovate Starthub Solana Onboarding](https://x.com/UnclePhil_01/status/1910722056645190100)
+   [Fhenix Africa Starthub Solana Onboarding](https://x.com/UnclePhil_01/status/1910265928832385268)
+3. Won the DevFun regional champions for the World Cup semi-finals [POST](https://x.com/devfunpump/status/1932865867680743913)
+4. Building Xdegen, a demo trading platfrom which has won several hackathons, and shoutout during it's beta phase:
+     Radar hackathon Nigeria Demo Day Side Track [WIN 14th Position](https://earn.superteam.fun/feed/submission/611fedf0-9e4a-4393-9858-e02834f3b2de)
+     Virtual Hackathon] Solana Tracks Bonus Bounty - TBW 2024[WIN](https://earn.superteam.fun/listing/virtual-hackathon-bonus-bounty-tbw-2024)
+5. Organized the first South-south Nigeria regional JUP Developers onboarding virtual call. [POST](https://x.com/UnclePhil_01/status/1910031349462737131)
+and many more.
